@@ -13,4 +13,4 @@ Full-stack engineer in Lagos, Nigeria. I build production web apps end to end: d
 **Live work**
 [jehonissifoods.com](https://jehonissifoods.com) · [school.jehonissifoods.com](https://school.jehonissifoods.com) · [happyculinaryacademy.com.ng](https://happyculinaryacademy.com.ng) · [rmexchange.ng](https://rmexchange.ng) · [carerstech.com](https://carerstech.com)
 
-📫 [LinkedIn](https://linkedin.com/in/awobajo-faruq-96a068295) · open to full-stack / backend roles (remote, Lagos, or relocation)
+📫 [LinkedIn](https://linkedin.com/in/umar-awobajo) · open to full-stack / backend roles (remote, Lagos, or relocation)
