@@ -2,9 +2,10 @@
 
 Full-stack engineer in Lagos, Nigeria. I build production web apps end to end: data model, backend, frontend, payments and deployment.
 
-- 🧭 **CTO at TravelWheel**, a travel-booking platform (~1,500 users, ~400 bookings/month). I lead a 3-person team and built the flight, hotel and visa booking infrastructure.
+- 🧭 **CTO at TravelWheel**, a travel-booking platform (~1,500 users, ~400 bookings/month). I lead a 3-person team and built flight booking on two supplier APIs with automatic failover, plus visa, corporate and buy-now-pay-later products. [Case study](case-studies/travelwheel.md)
 - 🛒 Built **GenesisHub**, a multi-vendor marketplace (38 registered sellers): first in [Laravel](https://github.com/abbey-001/genesisHub), then rebuilt on Next.js + Supabase with database-enforced authorization and idempotent Paystack payments. [Live demo](https://genesis-hub-nextjs.vercel.app) · [Case study](case-studies/genesishub.md)
 - 🌍 Since 2022 I've shipped 8+ client products for businesses in the UK, Canada, Nigeria and Dubai.
+- ⛽ Built **Muibay**, daily operations and fuel/cash reconciliation for a fuel-station business. [Case study](case-studies/muibay.md)
 - 🔭 Currently studying computer vision and robotics (PyTorch, OpenCV, ROS2).
 
 **Stack**
