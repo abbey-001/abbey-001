@@ -13,4 +13,13 @@ Full-stack engineer in Lagos, Nigeria. I build production web apps end to end: d
 **Live work**
 [jehonissifoods.com](https://jehonissifoods.com) · [school.jehonissifoods.com](https://school.jehonissifoods.com) · [happyculinaryacademy.com.ng](https://happyculinaryacademy.com.ng) · [rmexchange.ng](https://rmexchange.ng) · [carerstech.com](https://carerstech.com)
 
+**What clients say**
+> "Umar has been TravelWheel's CTO since 2023 and built most of our platform himself… He thinks about the business, not just the code." (TravelWheel leadership)
+
+> "He understood what we needed as a business, communicated well across time zones, and delivered work we've relied on every day since." (Jehonissi Foods, UK)
+
+> "He turned our requirements into a working product, kept us updated throughout, and was responsive whenever we needed changes." (Happy Culinary Academy)
+
+> "He took time to understand how our scheduling actually works and built something our team could use without fuss." (CarersTech)
+
 📫 [LinkedIn](https://linkedin.com/in/umar-awobajo) · open to full-stack / backend roles (remote, Lagos, or relocation)
